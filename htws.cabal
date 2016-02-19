@@ -26,4 +26,6 @@ executable htws
                      , containers
                      , time
                      , bytestring
-  other-modules: MyOAuthConfig
+                     , utf8-string
+  ghc-options:       -Wall                   
+  other-modules:     MyOAuthConfig

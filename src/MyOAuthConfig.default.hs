@@ -4,8 +4,7 @@
 -- import qualified Data.ByteString as BS (ByteString)
 --
 -- data  MyOAuthConfig = MyOAuthConfig
---                    {
---                      ckey    :: BS.ByteString
+--                    { ckey    :: BS.ByteString
 --                    , csecret :: BS.ByteString
 --                    , atoken  :: BS.ByteString
 --                    , asecret :: BS.ByteString
